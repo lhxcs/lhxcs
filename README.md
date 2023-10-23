@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @lhxcs
-- 👀 I’m an undergraduate student majoring in Computer Science in Zhejiang University.
+- 👀 I’m an undergraduate student in Zhejiang University,majoring in Computer Science.
   - My notebook:https://lhxcs.github.io/note
 
 
