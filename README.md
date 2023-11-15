@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @lhxcs
-- 👀 I’m an undergraduate student in Zhejiang University,majoring in Computer Science.
+- 👀 I’m Hanxuan Li, a sophomore majoring in Computer Science and Technology in Zhejiang University. I am still exploing my research interest.
   - My notebook:https://lhxcs.github.io/note
  
 ![Iridescent's GitHub stats](https://github-readme-stats.vercel.app/api?username=lhxcs&show_icons=true&theme=radical&count_private=true)
