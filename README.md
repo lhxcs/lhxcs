@@ -1,5 +1,5 @@
 - 👋👀 I’m Hanxuan Li, a third year undergraduate majoring in Computer Science and Technology in Zhejiang University.
-  - My research interests includes:
+  - My research interests include:
     - Efficient AI algorithms, especially model quantization, and their application in deep learning models.
     - System for machine learning.
     - I am also exploring the field of deep learning theory.
