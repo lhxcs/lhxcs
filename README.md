@@ -1,4 +1,8 @@
-- 👋👀 I’m Hanxuan Li, a third year undergraduate majoring in Computer Science and Technology in Zhejiang University. 
+- 👋👀 I’m Hanxuan Li, a third year undergraduate majoring in Computer Science and Technology in Zhejiang University.
+  - My research interests includes:
+    - Efficient AI algorithms, especially model quantization, and their application in deep learning models.
+    - System for machine learning.
+    - I am also exploring the field of deep learning theory.
   - My notebook:https://lhxcs.github.io/note
  
 ![Iridescent's GitHub stats](https://github-readme-stats.vercel.app/api?username=lhxcs&show_icons=true&theme=radical&count_private=true)
